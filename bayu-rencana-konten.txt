@@ -3,6 +3,11 @@ RENCANA KONTEN BAYU
 - JavaScript
  * ES6
  * Framework JavaScript
+    ^ Vue
+    ^ React
 - Struktur Data Dasar
+- PHP Frameworks
+    ^Laravel
 - Interview
 - Vlog
+- Python
