@@ -1,0 +1,7 @@
+RENCANA KONTEN BAYU
+
+- JavaScript
+ * ES6
+ * Framework JavaScript
+- Interview
+- Vlog
