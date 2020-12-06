@@ -3,5 +3,6 @@ RENCANA KONTEN BAYU
 - JavaScript
  * ES6
  * Framework JavaScript
+- Struktur Data Dasar
 - Interview
 - Vlog
